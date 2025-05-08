@@ -27,5 +27,13 @@
 
 <br>
 
+---
+
 ## 字幕データのダウンロード方法
+
+### 1. 見たい項目の「字幕データ」をクリック
+
+![subtitle_download_1](https://github.com/user-attachments/assets/0f086f68-b82d-4c60-a6af-e9c73fc8b7fd)
+### 2. 右上のダウンロードアイコンからダウンロード
+
 ![subtitle_download](https://github.com/user-attachments/assets/827a0c50-4c02-4703-be7a-8ccbfbdac485)
