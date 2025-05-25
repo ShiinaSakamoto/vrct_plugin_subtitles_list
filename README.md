@@ -24,6 +24,10 @@
       </tr>
 </table>
 
+<br>
+
+[字幕表示機能そのものの使い方はこちら](https://github.com/ShiinaSakamoto/vrct_plugin_subtitles/blob/main/README.md)
+
 
 <br>
 <br>
