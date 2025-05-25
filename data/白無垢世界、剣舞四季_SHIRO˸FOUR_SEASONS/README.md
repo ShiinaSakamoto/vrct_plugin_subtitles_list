@@ -20,4 +20,6 @@
 
 > カウントダウンの「00:00 スタート！」と同時に刀をUseしてください。
 
-準備中...
+
+
+https://github.com/user-attachments/assets/5fd2e258-0dfd-4671-8a1f-d327e1cc5b40
