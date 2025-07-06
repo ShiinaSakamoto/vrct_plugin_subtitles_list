@@ -1,4 +1,4 @@
-# VRCT 字幕データ一覧
+# 字幕データ一覧
   <table>
       <thead>
           <tr>
